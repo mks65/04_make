@@ -1,3 +1,6 @@
 [submodule "hernandezCar"]
 	path = hernandezCar
 	url = https://github.com/KarlWithK/04_make_mks.git
+[submodule "hamzahMoh"]
+	path = hamzahMoh
+	url = https://github.com/ForestDweller014/04_make
