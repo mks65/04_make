@@ -10,3 +10,6 @@
 [submodule "ahmedTah"]
 	path = ahmedTah
 	url = https://github.com/TahsinAhmed13/04_make.git
+[submodule "yeGen"]
+	path = yeGen
+	url = https://github.com/Gene1212/04_make.git
