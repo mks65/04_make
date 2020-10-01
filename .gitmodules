@@ -16,3 +16,6 @@
 [submodule "raoIva"]
 	path = raoIva
 	url = https://github.com/irao12/systems_04_make.git
+[submodule "zhangJin"]
+	path = zhangJin
+	url = https://github.com/Jinzxc/04_make_J.git
