@@ -4,3 +4,6 @@
 [submodule "hamzahMoh"]
 	path = hamzahMoh
 	url = https://github.com/ForestDweller014/04_make
+[submodule "yeCul"]
+	path = yeCul
+	url = https://github.com/CullenLYe/work04_make.git
