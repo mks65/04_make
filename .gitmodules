@@ -22,3 +22,6 @@
 [submodule "maoMad"]
 	path = maoMad
 	url = https://github.com/madelynxmao/04_make.git
+[submodule "hathawayMay"]
+	path = hathawayMay
+	url = https://github.com/mayhathaway/systems-04.git
