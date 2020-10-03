@@ -34,3 +34,6 @@
 [submodule "huLuc"]
 	path = huLuc
 	url = https://github.com/lhu10/systems_04_make.git
+[submodule "siuVic"]
+	path = siuVic
+	url = https://github.com/vs2961/04_make_vs.git
