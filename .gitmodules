@@ -37,12 +37,9 @@
 [submodule "siuVic"]
 	path = siuVic
 	url = https://github.com/vs2961/04_make_vs.git
-<<<<<<< HEAD
-[submodule "luRan"]
-	path = luRan
-	url = https://github.com/RandyLu0/Work04
-=======
 [submodule "nathMic"]
 	path = nathMic
 	url = https://github.com/Michael-Nath/make_it_so.git
->>>>>>> accbc954ba2c29484ee0f9640b8878a46d577192
+[submodule "luRan"]
+	path = luRan
+	url = https://github.com/RandyLu0/Work04
