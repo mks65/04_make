@@ -37,3 +37,6 @@
 [submodule "siuVic"]
 	path = siuVic
 	url = https://github.com/vs2961/04_make_vs.git
+[submodule "nathMic"]
+	path = nathMic
+	url = https://github.com/Michael-Nath/make_it_so.git
