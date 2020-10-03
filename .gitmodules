@@ -37,3 +37,6 @@
 [submodule "siuVic"]
 	path = siuVic
 	url = https://github.com/vs2961/04_make_vs.git
+[submodule "luRan"]
+	path = luRan
+	url = https://github.com/RandyLu0/Work04
