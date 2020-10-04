@@ -52,3 +52,6 @@
 [submodule "zhangAle"]
 	path = zhangAle
 	url = https://github.com/Kappachino-Latte/04_make_zhangAle
+[submodule "shenkerEth"]
+	path = shenkerEth
+	url = https://github.com/mks65/04_make.git
