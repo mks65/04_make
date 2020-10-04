@@ -58,3 +58,6 @@
 [submodule "huMic"]
 	path = huMic
 	url = https://github.com/GuessHuIAm/homework4
+[submodule "liSun"]
+	path = liSun
+	url = https://github.com/sunnyli13/Work04.git
