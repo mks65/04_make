@@ -64,3 +64,6 @@
 [submodule "leeSte"]
 	path = leeSte
 	url = https://github.com/kevidgel/04_make_kevidgel
+[submodule "hirotaEis"]
+	path = hirotaEis
+	url = https://github.com/ei5uke/04_make.git
