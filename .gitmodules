@@ -55,3 +55,6 @@
 [submodule "shenkerEth"]
 	path = shenkerEth
 	url = https://github.com/ethan-shenker/04_make_systems.git
+[submodule "huMic"]
+	path = huMic
+	url = https://github.com/GuessHuIAm/homework4
