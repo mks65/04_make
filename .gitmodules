@@ -99,7 +99,7 @@
 	url = https://github.com/AbhijeetSaha2142/04_make.git
 [submodule "jiangVin"]
 	path = jiangVin
-	url = https://github.com/vjiang10/03_euler_vj.git
+	url = https://github.com/vjiang10/04_make_vj.git
 [submodule "waldAle"]
 	path = waldAle
 	url = https://github.com/SashaWald/04_work.git
