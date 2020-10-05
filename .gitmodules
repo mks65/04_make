@@ -85,3 +85,6 @@
 [submodule "VostrikovVla"]
 	path = VostrikovVla
 	url = https://github.com/villinoid/04_systems.git
+[submodule "vostrikovVla"]
+	path = vostrikovVla
+	url = https://github.com/villinoid/04_systems.git
