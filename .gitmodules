@@ -109,3 +109,6 @@
 [submodule "chanSer"]
 	path = chanSer
 	url = https://github.com/schan11/chanSer.git
+[submodule "misquittaKri"]
+	path = misquittaKri
+	url = https://github.com/Kristoff1318/04-Make-It-So.git
