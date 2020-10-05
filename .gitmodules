@@ -103,3 +103,6 @@
 [submodule "waldAle"]
 	path = waldAle
 	url = https://github.com/SashaWald/04_work.git
+[submodule "haoGan"]
+	path = haoGan
+	url = https://github.com/haotianGan/04_make
