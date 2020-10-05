@@ -27,7 +27,7 @@
 	url = https://github.com/mayhathaway/systems-04.git
 [submodule "04_make"]
 	path = 04_make
-	url = https://github.com/jchen2003/04_make.git
+	url = https://github.com/Lucas-Lee11/04_make
 [submodule "chenJac"]
 	path = chenJac
 	url = https://github.com/jchen2003/04_make.git
@@ -91,3 +91,6 @@
 [submodule "zhouKel"]
 	path = zhouKel
 	url = https://github.com/KellyZhou223/zhouKel
+[submodule "leeLuc"]
+	path = leeLuc
+	url = https://github.com/Lucas-Lee11/04_make
