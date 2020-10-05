@@ -100,3 +100,6 @@
 [submodule "jiangVin"]
 	path = jiangVin
 	url = https://github.com/vjiang10/03_euler_vj.git
+[submodule "waldAle"]
+	path = waldAle
+	url = https://github.com/SashaWald/04_work.git
