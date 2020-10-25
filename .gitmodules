@@ -64,9 +64,6 @@
 [submodule "leeSte"]
 	path = leeSte
 	url = https://github.com/kevidgel/04_make_kevidgel
-[submodule "zhengYul"]
-	path = zhengYul
-	url = https://github.com/yzheng10/04_Make.git
 [submodule "prasadAmi"]
 	path = prasadAmi
 	url = https://github.com/AmitPr/mks65c-04_make.git
@@ -112,3 +109,6 @@
 [submodule "misquittaKri"]
 	path = misquittaKri
 	url = https://github.com/Kristoff1318/04-Make-It-So.git
+[submodule "04_Make"]
+	path = 04_Make
+	url = https://github.com/yzheng10/04_Make.git
