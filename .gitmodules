@@ -109,6 +109,6 @@
 [submodule "misquittaKri"]
 	path = misquittaKri
 	url = https://github.com/Kristoff1318/04-Make-It-So.git
-[submodule "04_Make"]
-	path = 04_Make
+[submodule "zhengYul"]
+	path = zhengYul
 	url = https://github.com/yzheng10/04_Make.git
